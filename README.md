@@ -1,3 +1,5 @@
+# React-Todo-List
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -63,6 +65,46 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Creating a Todo list using React app
+
+Todo List App using React
+This is a simple Todo List application built using React. It allows users to add, mark as complete, and remove tasks from their todo list.
+
+## Features
+Add new tasks to your todo list.
+Mark tasks as complete.
+Remove tasks from the list.
+Responsive design for various screen sizes.
+Getting Started
+Prerequisites
+Before you begin, ensure you have the following installed:
+
+## Node.js: Download
+npm (Node Package Manager), usually installed with Node.js
+Installation
+## Clone the repository:
+
+git clone https://github.com/Nithin-vs/React-Todo-List.git
+Navigate to the project directory:
+
+bash Copy code cd todo-list-react Install the dependencies:
+
+bash Copy code npm install Usage Run the development server:
+
+bash Copy code npm start Open your web browser and visit http://localhost:3000 to see the app in action.
+
+Use the input field to add new tasks. Click on a task to mark it as complete, and click the delete icon to remove a task.
+
+Contributing Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+Fork the repository. Create a new branch for your feature/bugfix: git checkout -b feature/new-feature Make your changes and commit them: git commit -m "Add new feature" Push to the branch: git push origin feature/new-feature Create a pull request explaining your changes.
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
